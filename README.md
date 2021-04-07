@@ -5,5 +5,5 @@ source env/bin/activate
 
 pip install -r requirements.txt
 
-jupyter notebook gans.ipynb
+jupyter notebook
 ```
